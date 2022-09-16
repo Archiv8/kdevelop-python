@@ -11,8 +11,8 @@
 # [ToDo]: Add files: Tooling
 # [FixMe]: Namcap warnings and errors
 
-# Maintainer: Ross Clark <https://github.com/orgs/Archiv8/cinelerra-gg/discussions>
-# Contributor: Ross Clark <https://github.com/orgs/Archiv8/cinelerra-gg/discussions>
+# Maintainer: Ross Clark <https://github.com/orgs/Archiv8/kdevelop-python/discussions>
+# Contributor: Ross Clark <https://github.com/orgs/Archiv8/kdevelop-python/discussions>
 
 pkgname="kdevelop-python"
 pkgver=22.08.1
@@ -29,7 +29,7 @@ depends=(
   #Official Repositories
   "kdevelop"
 
-  #Archiv8 / AUR Repositories
+  # Archiv8 / AUR Repositories
   # [Fixes]: Build error indicating missing node.h
   "python39"
 )
